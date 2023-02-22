@@ -1,6 +1,6 @@
 # HELLO
 
-I'm a first year communications engineering student from egypt who's been interested in computing ever since I could remember. You can expect to find Solo projects, configuration files and
+I'm a first year communications engineering student from egypt who's interested in computing. You can expect to find Solo projects, configuration files and
 University group projects on this profile.
 
 ## interests
